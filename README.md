@@ -55,11 +55,6 @@ A separate KNN experiment compares K values of 3, 5, and 7 to investigate their 
 - NumPy
 - Matplotlib
 
-## Project Files
-
-- `Information_Retrieval_Task_2.ipynb` — Complete implementation and analysis.
-- `classifier_comparison.csv` — Performance comparison of the four classifiers.
-- `knn_what_if_results.csv` — Results of the KNN experiment.
 
 ## Conclusion
 
